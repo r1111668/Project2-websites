@@ -1,0 +1,41 @@
+.navbar {
+  overflow: hidden;
+  background-color: #454545;
+  color: #31eed8;
+}
+.navbar a {
+  position: sticky;
+  float: left;
+  display: flex;
+  color: #31eed8;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  align-items: center;
+}
+.navbar a:hover {
+  background-color: #31eed8;
+  color: #454545;
+}
+.navbar a.active {
+  background-color: #31eed8;
+  color: #454545;
+}
+.titels1 {
+  margin-top: 10%;
+}
+body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 0;
+        text-align: center;
+        background-color: #454545;
+        color: #31eed8;
+}
+
+.navbar-example {
+    display: flex;
+}
+.wit{
+  color: white;
+}
+
